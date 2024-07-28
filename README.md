@@ -26,3 +26,7 @@ The server configuration is stored in `config/main.json`. Below is an example co
     "betareverseproxytarget": "https://httpbin.org",
     "throttleConnections": 100
 }
+```
+
+
+Get it here > https://github.com/SurekingDevone/http-king-v2/tree/master
