@@ -1,0 +1,30 @@
+set_default_color|`o
+add_label_with_icon|big|`wGTPS Gazette``|left|5016|
+add_spacer|small|
+add_image_button|banner|interface/large/news_banner.rttex|bannerlayout||NOFLAGS|0|1|
+add_spacer|small|
+add_textbox|`wSeptember 10Th: `5GTPS Official``|left|
+add_spacer|small|
+add_textbox|`oServer Created By `4@Farz|left|4||
+add_textbox|`oCredit Source- `2Sebia/GTOS|left|4||
+add_spacer|small|
+add_textbox|Welcome Players! We've benn adding lotta updates.|left|4||
+
+add_spacer|small|
+add_label_with_icon|small|GTPS Updates Logs
+add_space|small|
+add_label_with_icon|small|`o- `3Added 50+ Custom Items With Effect|left|1432|
+add_label_with_icon|small|`o- `3Added Punch Effect RGT On `9Soul Scythe, Ouroboros Charm, Sonic Buster Katana, Galaxy Ring, Beowulf's Blade, Crystal Crown, `3For More Info Cek In World `4REC|left|1432|
+add_label_with_icon|small|`o- `3Added 2x2, 3Far, 1Hit, On Custom Items|left|1432|
+add_label_with_icon|small|`o- `3Fixing Dupe On Magplant|left|1432|
+add_spacer|small|
+
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_policy_btn02.rttex|3imageslayout|https://mengcoba|Do you want to read the Privacy Policy?|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_policy_btn01.rttex|3imageslayout|https://www.growtopiagame.com/forums/showthread.php?508518-The-Growtopian-Code|Do you want to open the Growtopia Forum and read the Growtopian Code?|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_policy_btn03.rttex|3imageslayout|https://legal.ubi.com/termsofuse/en-INTL|Do you want to read the Terms of Use?|
+
+add_spacer|small|
+
+set_survey_enabled|1|
+
+end_dialog|||`wContinue|

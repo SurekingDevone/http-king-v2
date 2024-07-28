@@ -1,0 +1,10 @@
+{
+    "port": "17091",
+    "ip": "127.0.0.1",
+    "meta": "Server is currently initializing or re-syncing with sub servers. Please try again in a minute.",
+    "cdn": "0098/516691/",
+    "loginurl": "tron-login.zapto.org:444",
+    "ratelimit": 100,
+    "betareverseproxytarget": "https://httpbin.org",
+    "throttleConnections": 100
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Server Config</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Server Configuration</h1>
+    <div class="status">
+      <h2>Status</h2>
+      <p><strong>Throttle Connections:</strong> <span id="throttleConnections"></span></p>
+      <p><strong>Rate Limit:</strong> <span id="rateLimit"></span></p>
+      <p><strong>Blacklisted IPs:</strong></p>
+      <ul id="blacklistedIPs"></ul>
+    </div>
+    <div class="form">
+      <h2>Update Configurations</h2>
+      <form id="blacklistForm">
+        <label for="ip">Blacklist IP:</label>
+        <input type="text" id="ip" name="ip" required>
+        <button type="submit">Add</button>
+        <button type="button" id="removeIP">Remove</button>
+      </form>
+      <form id="rateLimitForm">
+        <label for="rateLimit">Rate Limit:</label>
+        <input type="number" id="rateLimitInput" name="rateLimit" required>
+        <button type="submit">Update</button>
+      </form>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
