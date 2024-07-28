@@ -26,3 +26,8 @@ The server configuration is stored in `config/main.json`. Below is an example co
     "betareverseproxytarget": "https://httpbin.org",
     "throttleConnections": 100
 }
+```
+
+## Credit
+[Sureking]([URL](https://github.com/SurekingDevone))
+Tron (for the backend loginurl)
