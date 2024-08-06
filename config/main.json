@@ -5,6 +5,6 @@
     "cdn": "0098/516691/",
     "loginurl": "tron-login.zapto.org:444",
     "ratelimit": 100,
-    "betareverseproxytarget": "https://httpbin.org",
+    "betareverseproxytarget": "testts",
     "throttleConnections": 100
 }
